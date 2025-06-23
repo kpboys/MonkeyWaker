@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Casper\\Documents\\Unity Projects\\Monkeywaker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D36C70B1-6826-1B62-638B-E4B0B0BCE00E}|Assembly-CSharp.csproj|c:\\users\\casper\\documents\\unity projects\\monkeywaker\\assets\\scripts\\depthfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36C70B1-6826-1B62-638B-E4B0B0BCE00E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\depthfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepthFinder.cs",
+              "DocumentMoniker": "C:\\Users\\Casper\\Documents\\Unity Projects\\Monkeywaker\\Assets\\Scripts\\DepthFinder.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DepthFinder.cs",
+              "ToolTip": "C:\\Users\\Casper\\Documents\\Unity Projects\\Monkeywaker\\Assets\\Scripts\\DepthFinder.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DepthFinder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:48:07.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
